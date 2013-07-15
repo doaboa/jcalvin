@@ -1,0 +1,13 @@
+  background: url(joelbear.jpg) no-repeat center 20px fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+div.container2
+{
+position:relative;
+top:200px;
+}
